@@ -2,7 +2,7 @@
 
 > A curated list of research related topics
 
-![https://github.com/derikon/awesome-research/blob/master/assets/header.png]()
+![awesome research header](https://github.com/derikon/awesome-research/blob/master/assets/header.png)
 
 
 ## Contents
