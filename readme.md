@@ -2,6 +2,8 @@
 
 > A curated list of research related topics
 
+![https://github.com/derikon/awesome-research/blob/master/assets/header.png]()
+
 
 ## Contents
 
@@ -11,6 +13,7 @@
 + [Machine Learning](#machine-learning)
 + [Computer Vision](#computer-vision)
 + [Programming](#programming)
++ [Making and Prototyping](#making-and-prototyping)
 + [Administration](#administration)
 + [Security](#security)
 + [Misc](#misc)
