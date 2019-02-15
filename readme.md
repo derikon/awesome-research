@@ -8,6 +8,7 @@
 ## Contents
 
 + [Research](#research)
+  + [Research Databases](#research-databases)
 + [Publishing](#publishing)
 + [Data Science and Data Visualization](#data-science-and-data-visualization)
 + [Machine Learning](#machine-learning)
@@ -26,6 +27,19 @@
 
 
 ### Research Databases
+
+[![Sci-Hub](https://upload.wikimedia.org/wikipedia/en/f/f7/Scihub_raven.png)](https://whereisscihub.now.sh/)
+
++ [arXiv.org](https://arxiv.org/) - Open access to 1,500,749 e-prints in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.
++ [Springer](https://link.springer.com/) - Providing researchers with access to millions of scientific documents from journals, books, series, protocols, reference works and proceedings.
+
+#### Computer Science
+
++ [ieeexplore.ieee.org](https://ieeexplore.ieee.org/Xplore/home.jsp) - IEEE Xplore Digital Library
++ [ACM](https://dl.acm.org/) - Association for Computing Machinery
+
+
+#### Medicine, Biomechanics and (applied) Rehabilitation Scenarios
 
 + [PubMed Central® (PMC)](https://www.ncbi.nlm.nih.gov/pmc/) - A free full-text archive of biomedical and life sciences journal literature at the U.S. National Institutes of Health's National Library of Medicine (NIH/NLM)
 + [Gait & Posture](https://www.journals.elsevier.com/gait-and-posture) - Official Journal of: Gait and Clinical Movement Analysis Society (GCMAS), European Society of Movement Analysis in Adults and Children (ESMAC), Società Italiana di Analisi del Movimento in Clinica (SIAMOC), and the International Society for Posture and Gait Research (ISPGR)
