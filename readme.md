@@ -50,6 +50,9 @@
 
 + [LaTex](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness
 + [Writing](https://github.com/jenniferlynparsons/awesome-writing) - An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials
++ [IEEE How to write for technical periodicals and conferences](http://ieeeauthorcenter.ieee.org/wp-content/uploads/How-to-Write-for-Technical-Periodicals-and-Conferences-1.pdf) - This guide is designed to help you succeed as an author.
++ [Varsamopoulos, G. How to Write a Technical Paper: Structure and Style of the Epitome of your Research.](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf)
++ [Paper Gestalt](https://vision.cornell.edu/se3/wp-content/uploads/2014/09/gestalt.pdf)
 + [Thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis
 + [Speaking](https://github.com/matteofigus/awesome-speaking) - Resources about public speaking
 
