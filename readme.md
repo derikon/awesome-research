@@ -55,6 +55,7 @@
 + [Paper Gestalt](https://vision.cornell.edu/se3/wp-content/uploads/2014/09/gestalt.pdf)
 + [Thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis
 + [Speaking](https://github.com/matteofigus/awesome-speaking) - Resources about public speaking
++ [Predatory Journals](https://predatoryjournals.com/) – A list of predatory journals
 
 
 ## Data Science and Data Visualization
