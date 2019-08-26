@@ -30,6 +30,7 @@
 
 [![Sci-Hub](https://upload.wikimedia.org/wikipedia/en/f/f7/Scihub_raven.png)](https://whereisscihub.now.sh/)
 
++ [Web of Science](https://webofknowledge.com) - Web of Science.
 + [arXiv.org](https://arxiv.org/) - Open access to 1,500,749 e-prints in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.
 + [Springer](https://link.springer.com/) - Providing researchers with access to millions of scientific documents from journals, books, series, protocols, reference works and proceedings.
 
@@ -56,6 +57,12 @@
 + [Thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis
 + [Speaking](https://github.com/matteofigus/awesome-speaking) - Resources about public speaking
 + [Predatory Journals](https://predatoryjournals.com/) – A list of predatory journals
+
+### Citation Visualization
+
++ [Bibliometrix](http://www.bibliometrix.org/) - 
+An R-tool for comprehensive science mapping analysis.
++ [VOSviewer](https://www.vosviewer.com/) - VOSviewer is a software tool for constructing and visualizing bibliometric networks.
 
 
 ## Data Science and Data Visualization
